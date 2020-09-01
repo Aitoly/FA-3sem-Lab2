@@ -1,0 +1,4 @@
+﻿  Task9.cpp
+C:\Users\Xiaomi\Documents\3 семестр\Lab2\Task9\Task9.cpp(39,28): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\Xiaomi\Documents\3 семестр\Lab2\Task9\Task9.cpp(39,28): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  Task9.vcxproj -> C:\Users\Xiaomi\Documents\3 семестр\Lab2\Debug\Task9.exe
